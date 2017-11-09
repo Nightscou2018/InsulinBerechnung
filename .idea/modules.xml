@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InsulinRechner.iml" filepath="$PROJECT_DIR$/InsulinRechner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insulinrechner/Insulinrechner.iml" filepath="$PROJECT_DIR$/Insulinrechner/Insulinrechner.iml" />
+    </modules>
+  </component>
+</project>
