@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InsulinRechner</string>
+    <string name="BZLabel">BZ:</string>
+    <string name="KELabel">KE:</string>
+    <string name="BZCalcBtnLabel">Berechnen</string>
+    <string name="mnuInsulinPlanLbl">Insulinplan</string>
+    <string name="InsulinplanNewItemLabel">Neuer Eintrag</string>
+    <string name="Faktor">Faktor:</string>
+    <string name="NameLabel">Name:</string>
+    <string name="NeuerKorrekturwertLbl">Neuer Korrekturwert</string>
+    <string name="SpeichernLbl">Speichern</string>
+    <string name="VonLbl">Von:</string>
+    <string name="BisLbl">Bis:</string>
+    <string name="WertLbl">Wert:</string>
+    <string name="OkLbl">OK</string>
+    <string name="PREF_FILE">de.mkservices.insulinrechner.INSULIN_PLAN</string>
+    <string name="TMP_KEY">tmp</string>
+    <string name="INSULIN_PLAN">insulin_plan</string>
+    <string name="DelLbl">Löschen</string>
+    <string name="mnuLebensmittelliste">Lebensmittelliste</string>
+    <string name="lblShare">Teilen</string>
+    <string name="txtImportPlan">Plan importieren ...</string>
+</resources>
